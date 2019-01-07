@@ -2,6 +2,7 @@
   "name": "click-counter",
   "version": "0.1.0",
   "private": true,
+  "main": "index.js",
   "dependencies": {
     "express": "^4.16.4",
     "prop-types": "^15.6.2",
